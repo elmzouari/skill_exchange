@@ -19,7 +19,7 @@ match with others, chat, and leave reviews.
 
 ## Setup
 ```bash
-git clone https://github.com/YOUR-USERNAME/skill_exchange.git
+git clone https://github.com/elmzouari/skill_exchange.git
 cd skill_exchange
 pip install -r requirements.txt
 python manage.py migrate
