@@ -1,0 +1,13 @@
+printf "__pycache__/
+*.pyc
+*.pyo
+*.log
+.env
+.env.*
+db.sqlite3
+/venv/
+/.venv/
+.DS_Store
+.idea/
+.vscode/
+" > .gitignore
